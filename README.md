@@ -51,7 +51,6 @@ The dataset contains:
 - Malaria deaths
 - Mortality-related metrics
 
-*Dataset used for educational and analytical purposes.*
 
 ---
 
@@ -71,9 +70,6 @@ The dataset contains:
 link: https://github.com/AmaraIfeanyi/Malaria-Cases-and-Death-Analysis/commit/ca1a7815783c0288a1eb119a2bd36df155ead93a
 
 ---
-## 📷 Dashboard Preview
-
-![Malaria Dashboard](malaria-dashboard.png)
 
 
 ## 💡 Health Impact
@@ -89,8 +85,7 @@ This dashboard can help:
 I am an aspiring Data Analyst passionate about transforming raw data into actionable insights through analytics and visualisation.
 
 ### Connect With Me
-- LinkedIn:www.linkedin.com/in/
-amara-ifeanyi
+- LinkedIn:www.linkedin.com/in/amara-ifeanyi
   
 
 ---
