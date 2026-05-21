@@ -71,7 +71,9 @@ The dataset contains:
 link: https://github.com/AmaraIfeanyi/Malaria-Cases-and-Death-Analysis/commit/ca1a7815783c0288a1eb119a2bd36df155ead93a
 
 ---
-## [Dashboard] (IMG-20260520-WA0009.jpg)
+## 📷 Dashboard Preview
+
+![Malaria Dashboard](malaria-dashboard.png)
 
 
 ## 💡 Health Impact
