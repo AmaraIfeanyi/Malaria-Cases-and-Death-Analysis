@@ -1,5 +1,4 @@
 # Malaria-Cases-and-Death-Analysis 
-# 🦟 Malaria Cases and Deaths Analysis Dashboard
 
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard designed to analyse global malaria cases and deaths across different countries and years. The dashboard provides insights into malaria trends, high-risk countries, mortality rates, and yearly comparisons to support data-driven health awareness and decision-making.
